@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Tuấn Hòa 
+- 👋 Hi, I’m Tuấn Hòa
+- I was born and grew up Ha Tinh  
 - I Love Jesus
 - Because "God is love; let us love one another as God has loved us"
 
