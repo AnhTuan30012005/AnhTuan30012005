@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Tuấn Hòa 
 - I Love Jesus
 - Because "God is love; let us love one another as God has loved us"
-![OIP](https://github.com/AnhTuan30012005/Tearm-1---Year-1/assets/154312631/9a97493d-3781-4776-8af5-c0e1a7cab205)
+
+![anh-tre-em-va-chua-giesu_083332487](https://github.com/AnhTuan30012005/Tearm-1---Year-1/assets/154312631/a0169d95-6057-462b-9e50-ee75818131bc)
+
 
 
 
