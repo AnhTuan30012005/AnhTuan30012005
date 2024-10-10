@@ -103,7 +103,7 @@
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:anhtuan30012005@gmail.com" target="_top">anhtuan30012005@gmail.com</a></strong>
 </p>
-  <img src="../AnhTuan30012005/images/tuanhoa1.jpg" width="1200" alt="Toi co lam them mang grapher nhe" />
+  <img src="../AnhTuan30012005 - Sao chép/images/tuanhoa1.jpg" width="1200" alt="Toi co lam them mang grapher nhe" />
 </a>
 
 <br>
