@@ -62,6 +62,10 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=AnhTuan30012005&show_icons=true&theme=transparent" />
   
   </a>
+  <a href="#" title="Tuanhoa">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTuan30012005&layout=donut-vertical" />
+  
+  </a>
 </div>
 
 <br>
