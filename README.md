@@ -98,8 +98,8 @@
 <h2 align="center">📖 My Information  📖</h2>
 <br>
 <p>
-  <a href="https://www.instagram.com/anhtuan30012005/" target="_blank">
-    <strong>☕ Day la trang instagram cua tôi - va toi hay dang may cai ngho nghinh len do | Tuanhoa</strong>
+  <a href="[https://www.instagram.com/anhtuan30012005/](https://www.threads.net/@tnh312500?xmt=AQGzTQ9uipTRy1Cdlz29v3Eu74v92R8-EQIPtgLHctSYo74)" target="_blank">
+    <strong>☕ Day la trang thờ rét cua tôi - va toi hay dang may cai ngho nghinh len do | Tuanhoa</strong>
   </a>
 </p>
 
