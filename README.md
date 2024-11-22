@@ -108,6 +108,7 @@
   <strong>📧 Hoặc Email: <a href="mailto:anhtuan30012005@gmail.com" target="_top">anhtuan30012005@gmail.com</a></strong>
 </p>
   <img src="/images/tuanhoa1-min.jpg" width="1200" alt="Toi co lam them mang grapher nhe" />
+  <img src="C:\Users\ASUS\Pictures\arnh\ddi.jpg" width="1200" alt="hihi" />
 </a>
 
 <br>
