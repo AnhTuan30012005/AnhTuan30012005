@@ -97,18 +97,11 @@
 
 <h2 align="center">📖 My Information  📖</h2>
 <br>
-<p>
-  <a href="https://www.threads.net/@tnh312500?xmt=AQGzTQ9uipTRy1Cdlz29v3Eu74v92R8-EQIPtgLHctSYo74" target="_blank">
-    <strong>☕ Day la trang thờ rét cua tôi - va toi hay dang may cai ngho nghinh len do | Tuanhoa</strong>
-  </a>
-</p>
-
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/anhtuan30012005" target="_blank">https://www.facebook.com/anhtuan30012005</a></strong>
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:anhtuan30012005@gmail.com" target="_top">anhtuan30012005@gmail.com</a></strong>
 </p>
   <img src="/images/tuanhoa1-min.jpg" width="1200" alt="Toi co lam them mang grapher nhe" />
-  <img src="C:\Users\ASUS\Pictures\arnh\ddi.jpg" width="1200" alt="hihi" />
 </a>
 
 <br>
