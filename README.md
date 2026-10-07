@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- HEADER WAVE BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=✦%20Tuấn%20Hòa%20✦&fontSize=42&fontAlignY=38&animation=twinkling&desc=Exploring%20the%20Digital%20Universe%20•%20Dreamer%20%26%20Creator%20🌌&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
+  <!-- HEADER NATIVE SVG BANNER -->
+  <img src="svg/header.svg" width="100%" alt="✦ Tuấn Hòa ✦" />
 
   <!-- DYNAMIC TYPING SVG & GREETING -->
   <h3>
@@ -122,6 +122,6 @@
 <br />
 
 <div align="center">
-  <!-- FOOTER WAVE BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,12,1&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <!-- FOOTER NATIVE SVG BANNER -->
+  <img src="svg/footer.svg" width="100%" alt="Footer Wave" />
 </div>
