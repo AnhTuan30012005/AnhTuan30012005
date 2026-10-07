@@ -1,26 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 90" width="100%" height="90" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 110" width="100%" height="110" fill="none">
   <defs>
     <linearGradient id="footerWave" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.25" />
-      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.5" />
-      <stop offset="100%" stop-color="#f472b6" stop-opacity="0.25" />
+      <stop offset="35%" stop-color="#8b5cf6" stop-opacity="0.45" />
+      <stop offset="70%" stop-color="#ec4899" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.20" />
+    </linearGradient>
+    <linearGradient id="textFooterGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#93c5fd" />
+      <stop offset="50%" stop-color="#c084fc" />
+      <stop offset="100%" stop-color="#f472b6" />
     </linearGradient>
     <style>
       @keyframes twinkle {
-        0%, 100% { opacity: 0.2; }
-        50% { opacity: 1; }
+        0%, 100% { opacity: 0.25; transform: scale(0.85); }
+        50% { opacity: 1; transform: scale(1.25); }
       }
-      .star { animation: twinkle 3s infinite ease-in-out; }
+      .star { transform-origin: center; animation: twinkle 3s infinite ease-in-out; }
     </style>
   </defs>
 
   <!-- Stars -->
-  <circle cx="120" cy="25" r="1.5" fill="#38bdf8" class="star" />
-  <circle cx="280" cy="15" r="1.2" fill="#c084fc" class="star" style="animation-delay: 1s;" />
-  <circle cx="580" cy="20" r="1.8" fill="#f472b6" class="star" style="animation-delay: 2s;" />
-  <circle cx="750" cy="28" r="1.2" fill="#ffffff" class="star" style="animation-delay: 1.5s;" />
+  <circle cx="90" cy="22" r="1.5" fill="#38bdf8" class="star" />
+  <circle cx="210" cy="15" r="1.2" fill="#c084fc" class="star" style="animation-delay: 0.8s;" />
+  <circle cx="340" cy="28" r="1.8" fill="#fde047" class="star" style="animation-delay: 1.6s;" />
+  <circle cx="530" cy="18" r="1.4" fill="#38bdf8" class="star" style="animation-delay: 2.2s;" />
+  <circle cx="680" cy="25" r="1.7" fill="#f472b6" class="star" style="animation-delay: 1.2s;" />
+  <circle cx="790" cy="16" r="1.3" fill="#ffffff" class="star" style="animation-delay: 0.5s;" />
 
   <!-- Wave Lines -->
-  <path d="M0,45 C200,20 380,60 550,35 C700,10 800,45 854,35 L854,90 L0,90 Z" fill="url(#footerWave)" />
-  <path d="M0,55 C180,35 340,70 510,48 C680,25 780,55 854,48 L854,90 L0,90 Z" fill="#1e1035" opacity="0.6" />
+  <path d="M0,52 C200,28 380,68 550,42 C700,18 800,52 854,42 L854,110 L0,110 Z" fill="url(#footerWave)" />
+  <path d="M0,64 C180,44 340,78 510,58 C680,35 780,65 854,58 L854,110 L0,110 Z" fill="#0d1117" opacity="0.8" />
+
+  <!-- Footer Text -->
+  <text x="427" y="92" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="500" letter-spacing="1.8" fill="url(#textFooterGrad)">
+    ✦ CẢM ƠN BẠN ĐÃ GHÉ THĂM TRẠM DỪNG CHÂN DẢI NGÂN HÀ • CHÚC BẠN MỘT NGÀY AN YÊN ✦
+  </text>
 </svg>
