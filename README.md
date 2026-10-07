@@ -32,10 +32,9 @@
     <td width="55%" valign="top">
       <br />
       <p>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="22" valign="middle" /> <b>Tên gọi:</b> Tuấn Hòa (Anh Tuấn)<br />
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="22" valign="middle" /> <b>Tọa độ:</b> Hà Tĩnh, Việt Nam 🇻🇳<br />
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="22" valign="middle" /> <b>Nhiên liệu:</b> Tách cà phê phin đậm đà &amp; những đêm tĩnh lặng ngắm sao ☕🌙<br />
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="22" valign="middle" /> <b>Giai điệu:</b> Lofi chillhop, tiếng mưa đêm &amp; anime acoustic soundtrack 🎵<br />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="22" valign="middle" /> <b>Tên gọi:</b> Tuấn Hòa ✨<br />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="22" valign="middle" /> <b>Nhiên liệu:</b> Tách cà phê ấm &amp; những đêm tĩnh lặng ngắm sao ☕🌙<br />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="22" valign="middle" /> <b>Giai điệu:</b> Lofi chillhop, tiếng mưa đêm &amp; anime soundtracks 🎵<br />
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="22" valign="middle" /> <b>Cảm hứng:</b> Dải Ngân Hà lấp lánh, sự tối giản &amp; nghệ thuật thẩm mỹ ✨
       </p>
       <br />
@@ -156,24 +155,12 @@
 
 ---
 
-### 📬 ✧ Trạm Kết Nối • Connect With Me
+### 📬 ✧ Trạm Kết Nối • Connect
 
 <div align="center">
 
   <a href="https://github.com/AnhTuan30012005" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-AnhTuan30012005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Tuấn_Hòa-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  &nbsp;
-  <a href="mailto:contact@tuanhoa.dev">
-    <img src="https://img.shields.io/badge/Email-Gửi_thư-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Trò_chuyện-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/GitHub-Tuấn_Hòa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
 </div>
