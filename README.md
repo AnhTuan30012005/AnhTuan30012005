@@ -115,15 +115,48 @@
 
 ---
 
-### ⚡ ✧ Lãnh Địa Vô Hạn • Domain Expansion: Infinite Void 🌌
+### ⚡ ✧ Lôi Tức Thần Tốc • Thunder Breathing: Flaming Thunder God 🗡️
 
 <div align="center">
-  <img src="images/gojo_domain_expansion.gif" width="100%" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(168,85,247,0.35); border: 1px solid rgba(168,85,247,0.2);" alt="Gojo Satoru Domain Expansion" />
+
+  <!-- HUD COMBAT STATUS PILL -->
+  <kbd>⚡ <b>BREATHING STYLE:</b> <i>THUNDER BREATHING (雷の呼吸)</i> &nbsp;•&nbsp; <b>FORM:</b> <i>SEVENTH FORM • HONOIKAZUCHI NO KAMI</i> &nbsp;•&nbsp; <b>SPEED:</b> <i>GODSPEED (神速)</i> ⚡</kbd>
+
   <br /><br />
+
+  <!-- DYNAMIC TYPING ATTACK CALLOUT -->
+  <a href="https://github.com/AnhTuan30012005">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=1000&color=FACC15&center=true&vCenter=true&multiline=false&width=620&height=38&lines=%E2%9A%A1+T%E1%BA%ADp+trung+h%C6%A1i+th%E1%BB%9F+to%C3%A0n+ph%E1%BA%A7n...+H%C6%A1i+th%E1%BB%9F+c%E1%BB%A7a+S%E1%BA%A5m+S%C3%A9t!;%E2%9A%A1+%E9%9B%B7%E3%81%AE%E5%91%BC%E5%90%B8+%E6%BC%86%E3%83%8E%E5%9E%8B+%E7%81%AB%E9%9B%B7%E7%A5%9E+(Honoikazuchi+no+Kami);%E2%9A%A1+M%C3%A0i+gi%C5%A9a+k%E1%BB%B9+n%C4%83ng+%C4%91%E1%BA%BFn+c%E1%BA%A3nh+gi%E1%BB%9Bi+t%E1%BB%99t+c%C3%B9ng!+%E2%9C%A8" alt="Zenitsu Attack Typing" />
+  </a>
+
+  <br /><br />
+
+  <!-- CINEMATIC ZENITSU THUNDER GOD ANIMATION WITH ELECTRIC GOLD NEON GLOW -->
+  <img src="images/zenitsu_thunder_god.gif" width="100%" style="border-radius: 16px; box-shadow: 0 0 35px rgba(250, 204, 21, 0.4), 0 8px 30px rgba(0, 0, 0, 0.7); border: 1.5px solid rgba(250, 204, 21, 0.6);" alt="Zenitsu Flaming Thunder God" />
+
+  <br /><br />
+
+  <!-- COMBAT BADGES ROW -->
+  <a href="https://github.com/AnhTuan30012005">
+    <img src="https://img.shields.io/badge/Kiếm_Thuật-Hơi_Thở_Sấm_Sét-EAB308?style=for-the-badge&logoColor=black" alt="Kiếm Thuật" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/AnhTuan30012005">
+    <img src="https://img.shields.io/badge/Thức_Chiêu-Hỏa_Lôi_Thần-F97316?style=for-the-badge&logoColor=white" alt="Thức Chiêu" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/AnhTuan30012005">
+    <img src="https://img.shields.io/badge/Vận_Tốc-Thần_Tốc_Godspeed-38BDF8?style=for-the-badge&logoColor=white" alt="Vận Tốc" />
+  </a>
+
+  <br /><br />
+
+  <!-- ZENITSU CODE PHILOSOPHY QUOTE -->
   <blockquote>
-    🪐 <b>領域展開 • Vô Lượng Không Xử (無量空処)</b><br />
-    <i>"Trong thế giới số, thông tin là vô tận. Nhưng giữa dòng chảy của code và vũ trụ, chỉ có sự tĩnh lặng, sáng tạo và đam mê là mãi mãi."</i> ♾️✨
+    ⚡ <b>雷の呼吸 漆ノ型 • 火雷神 (HỎA LÔI THẦN)</b><br />
+    <i>"Nếu bạn chỉ có thể làm được một điều duy nhất, hãy mài giũa nó đến cảnh giới tột cùng — như một tia chớp rạch ngang dải ngân hà đêm tối."</i> 🗡️✨
   </blockquote>
+
 </div>
 
 <br />
