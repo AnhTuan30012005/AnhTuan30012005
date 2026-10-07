@@ -115,6 +115,32 @@
 
 ---
 
+### ⚡ ✧ Lãnh Địa Vô Hạn • Domain Expansion: Infinite Void 🌌
+
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" align="center" valign="middle">
+      <img src="images/gojo_domain_expansion.gif" width="100%" style="border-radius: 14px; box-shadow: 0 4px 20px rgba(168,85,247,0.35);" alt="Gojo Satoru Domain Expansion" />
+    </td>
+    <td width="45%" valign="top">
+      <br />
+      <h4>🤞 領域展開 • Vô Lượng Không Xử (無量空処)</h4>
+      <blockquote>
+        🪐 <i>"Trong thế giới số, thông tin là vô tận. Nhưng giữa dòng chảy của code và vũ trụ, chỉ có sự tĩnh lặng, sáng tạo và đam mê là mãi mãi."</i>
+      </blockquote>
+      <p>
+        ⚡ <b>Trạng thái:</b> <i>Vô Hạ Hạn (Infinity Active)</i> ♾️<br />
+        👁️ <b>Thị lực:</b> <i>Lục Nhãn (Six Eyes) nhìn thấu vạn vật</i> 🔮<br />
+        🌌 <b>Cảnh giới:</b> <i>Vũ trụ vô cực &amp; Dải Ngân Hà sâu thẳm</i> ✨
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
 ### 📊 ✧ Dấu Chân Số • Activity &amp; Streaks
 
 <div align="center">
