@@ -50,10 +50,11 @@
 
 <br />
 
-<!-- NYAN CAT RUNNER -->
+<!-- NYAN CAT WIDE RUNNER -->
 <div align="center">
-  <img src="images/nyan_cat_space.gif" width="160" alt="Nyan Cat in Space" />
+  <img src="images/nyan_cat_wide.gif" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.25);" alt="Nyan Cat Rainbow Runner" />
 </div>
+
 
 ---
 
